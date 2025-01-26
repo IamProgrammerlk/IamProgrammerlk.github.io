@@ -11,7 +11,7 @@
 <h1>Programming is like sex, I can't make a mistake.:100:</h1>
 
 <br>
-
+:100:
 <a href="https://iamprogrammer.lk">Home</a> 🔸
 <a href="https://blog.iamprogrammer.lk">Blog</a> 🔸
 <a href="https://github.com/sponsors/iamprogrammerlk">Sponsors</a> 🔸
